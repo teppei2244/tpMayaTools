@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($env:PATH = $env:PATH + \";C:\\\\Program Files\\\\GitHub CLI\"; git add -A; git commit -m \"Add Maya module structure and setup README\"; git push)"
+    ]
+  }
+}
